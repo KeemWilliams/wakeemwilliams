@@ -79,8 +79,6 @@ Automation is a core part of how I work — systems should support you, not slow
 
 ## 📊 GitHub Stats
 
-![Wakeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keemwilliams&show_icons=true&theme=transparent)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=keemwilliams&theme=transparent)
 
 ---
